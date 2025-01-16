@@ -1,5 +1,4 @@
 import React from "react";
-import { FaCalendarAlt } from "react-icons/fa";
 import aboutImg from '../images/about-img.jpg'
 import hero from '../images/hero-img.jpg'
 import ser from '../images/ser-img.jpg'
